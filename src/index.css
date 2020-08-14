@@ -2,6 +2,14 @@ body {
   font: 14px "Century Gothic", Futura, sans-serif;
   margin: 20px;
 }
+
+.history-btn {
+  border: none;
+}
+
+.history-btn:hover {
+  cursor: pointer;
+}
   
 ol, ul {
   padding-left: 30px;
